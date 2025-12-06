@@ -1,0 +1,7 @@
+{
+  "name": "Aether",
+  "description": "A futuristic, multimodal AI assistant powered by the latest Gemini models for chat, image generation, editing, and analysis.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
